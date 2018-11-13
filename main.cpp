@@ -11,7 +11,7 @@
 
 int main()
 {
-#if 1
+#if 1 
     std::vector<Bankboy> statements;
     bool more = true;
     int day;
